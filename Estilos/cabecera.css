@@ -1,0 +1,13 @@
+h1{
+text-align: center;
+}
+
+body{
+    background-color: gray;
+}
+
+img{
+    margin-left: auto;
+    width: 800px;
+    margin-right:auto;
+}
